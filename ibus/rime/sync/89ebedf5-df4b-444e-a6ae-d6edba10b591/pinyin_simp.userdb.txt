@@ -1,0 +1,7 @@
+# Rime user dictionary
+#@/db_name	pinyin_simp
+#@/db_type	userdb
+#@/rime_version	1.8.5
+#@/tick	1
+#@/user_id	89ebedf5-df4b-444e-a6ae-d6edba10b591
+jing 	警	c=1 d=1 t=1

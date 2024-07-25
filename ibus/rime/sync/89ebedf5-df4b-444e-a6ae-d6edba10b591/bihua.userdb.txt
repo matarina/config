@@ -1,0 +1,6 @@
+# Rime user dictionary
+#@/db_name	bihua
+#@/db_type	userdb
+#@/rime_version	1.8.5
+#@/tick	0
+#@/user_id	89ebedf5-df4b-444e-a6ae-d6edba10b591
